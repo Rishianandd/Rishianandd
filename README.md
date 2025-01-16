@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m learning **Machine Learning** and **Deep Learning**
-- 🧪 I’m interested in **Artificial Intelligence** and **Nanotechnology**
+- 🧪 I’m interested in **Artificial Intelligence** and **Web Development**
 - 💬 Ask me about anything related to **Python**, **ML**, and **AI**
 
 ---
