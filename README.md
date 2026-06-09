@@ -1,114 +1,116 @@
-# 👋 Hi, I'm Rishi Anand
+# <h1 align="center">Hi 👋, I'm Rishi Anand</h1>
 
-### Data Science & AI Engineer | Incoming MSc Data Science & Analytics Student at EPITA Paris 🇫🇷
+<h3 align="center">🚀 Data Science & AI Engineer | Incoming MSc Data Science & Analytics Student at EPITA Paris 🇫🇷</h3>
 
-🎓 B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Computer+Vision+Researcher;Patent+Published+Inventor;IEEE+%26+Springer+Published+Author;Incoming+EPITA+Paris+Graduate+Student" />
+</p>
 
-📍 Chennai, India
-
-🔬 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Data Science, IoT, and Cloud Technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RishiAnandd&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an aspiring Data Scientist and AI Engineer with hands-on experience in Machine Learning, Deep Learning, Computer Vision, Predictive Analytics, and IoT Systems.
+🎓 Graduated with a **B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)**
 
-Currently, I have industry experience through internships in both Machine Learning and Data Science, where I worked on real-world AI solutions, predictive models, and intelligent systems.
+🇫🇷 Incoming **MSc Data Science & Analytics Student at EPITA Paris**
 
-I will be pursuing my **Master of Science in Data Science & Analytics at EPITA Paris**, further specializing in AI-driven decision-making, analytics, and advanced machine learning.
+🏢 Former **Machine Learning Intern at DRDO (Ministry of Defence, Government of India)**
 
----
+📊 Current **Data Scientist Intern at HighOnSwift Pvt. Ltd.**
 
-## 🎓 Education
+📄 **Springer Published Research Author**
 
-### EPITA Paris, France 🇫🇷
+📚 **IEEE Conference Published Author**
 
-**MSc Data Science & Analytics**
-*Starting 2026*
+📜 **Indian Government Patent Published Inventor**
 
-### SRM Institute of Science and Technology
+☁️ **Microsoft Azure AI Fundamentals Certified**
 
-**B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)**
+🏅 **Salesforce CRM & SaaS Certified**
 
-🎯 CGPA: **8.94 / 10**
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Data Scientist Intern | HighOnSwift Pvt. Ltd.
-
-* Developed predictive machine learning models using Python and Scikit-learn.
-* Performed feature engineering, EDA, and model optimization.
-* Built data-driven solutions for business intelligence and analytics.
-
-### 🏢 Machine Learning Intern | DRDO (Ministry of Defence, Government of India)
-
-* Developed SSD + R-CNN based vehicle detection systems.
-* Achieved 90%+ detection accuracy across multiple environmental conditions.
-* Improved inference performance using transfer learning and dataset augmentation.
-* Worked with aerial and ground-level surveillance imagery.
+💡 Passionate about Artificial Intelligence, Data Science, Computer Vision, IoT, and Full Stack Development.
 
 ---
 
-## 🛠️ Technical Skills
+## 🏆 Achievements
 
-### Artificial Intelligence & Machine Learning
+🏢 DRDO Machine Learning Intern
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Predictive Analytics
-* Speech Recognition
+📊 Data Scientist Intern – HighOnSwift
 
-### Frameworks & Libraries
+📜 Indian Patent Published
 
-* PyTorch
-* TensorFlow
-* Keras
-* Scikit-learn
-* OpenCV
-* Pandas
-* NumPy
+📄 Springer Research Publication
 
-### Machine Learning Models
+📚 IEEE Conference Publication
 
-* CNN
-* ResNet
-* YOLOv8
-* SSD
-* R-CNN
-* CatBoost
-* XGBoost
-* LightGBM
+🏅 Microsoft Azure AI Fundamentals
 
-### Programming Languages
+🏅 Salesforce CRM & SaaS Certification
 
-* Python
-* C
-* C++
+🥇 Winner – Capture The Flag 2024
 
-### Web Development
+🇫🇷 French Language Certification (Alliance Française)
 
-* ReactJS
-* HTML5
-* CSS3
-* JavaScript
+---
 
-### Databases & Tools
+## 🤖 AI / Machine Learning
 
-* MySQL
-* Git
-* GitHub
-* Jupyter Notebook
+![Python](https://img.shields.io/badge/-Python-333333?style=flat\&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat\&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat\&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat\&logo=keras)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat\&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat\&logo=opencv)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat\&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat\&logo=numpy)
 
-### Cloud & Enterprise Platforms
+---
 
-* Microsoft Azure
-* Salesforce CRM
-* SAP
+## 👁️ Computer Vision
+
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-333333?style=flat)
+![ResNet](https://img.shields.io/badge/-ResNet-333333?style=flat)
+![SSD](https://img.shields.io/badge/-SSD-333333?style=flat)
+![R-CNN](https://img.shields.io/badge/-R--CNN-333333?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat\&logo=opencv)
+
+---
+
+## 📊 Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat\&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat\&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat\&logo=scikitlearn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat\&logo=jupyter)
+![CatBoost](https://img.shields.io/badge/-CatBoost-333333?style=flat)
+![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat)
+![LightGBM](https://img.shields.io/badge/-LightGBM-333333?style=flat)
+
+---
+
+## 🌐 Web Development
+
+![React](https://img.shields.io/badge/-React-333333?style=flat\&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat\&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat\&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat\&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat\&logo=css3)
+
+---
+
+## ☁️ Cloud & Tools
+
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat\&logo=microsoftazure)
+![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat\&logo=salesforce)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat\&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat\&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat\&logo=docker)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat\&logo=mysql)
 
 ---
 
@@ -117,92 +119,73 @@ I will be pursuing my **Master of Science in Data Science & Analytics at EPITA P
 ### 🪖 Smart Helmet Authentication & Vehicle Security System
 
 * Indian Government Patent Published Project
-* YOLOv8-based Helmet Detection
-* ESP32 Vehicle Authentication
-* Anti-Theft Protection System
-* MQTT & Adafruit IO Integration
+* YOLOv8 Helmet Detection
+* ESP32-Based Vehicle Security
+* MQTT Cloud Monitoring
 
 ### ⚡ Smart Energy Distribution & Monitoring Grid
 
-* IoT-powered smart energy management system
-* ESP32-based monitoring architecture
-* Energy forecasting using CatBoost, XGBoost, and LightGBM
-* Achieved R² score up to 0.9971
+* IoT + Machine Learning
+* Energy Forecasting using CatBoost, XGBoost & LightGBM
+* ESP32-Based Monitoring System
 
 ### 🌫️ Intelligent Image De-smoking & De-hazing
 
-* Deep Learning image restoration model
-* ResNet-based architecture
-* Optimized PSNR and SSIM performance
-* GPU-accelerated training
+* Deep Learning Image Restoration
+* ResNet-Based Architecture
+* Enhanced PSNR & SSIM Performance
 
 ### 🚗 Vehicle Detection using SSD & PyTorch
 
-* SSD300 with VGG16 Backbone
-* Real-time object detection
-* Vehicle localization using bounding boxes
-* Computer Vision application
+* SSD300 + VGG16 Backbone
+* Real-Time Vehicle Detection
+* Object Localization & Classification
 
 ### 🎤 Speech Recognized Voice Bot
 
-* IEEE Conference Published Project
+* IEEE Published Research Project
 * Speech Recognition & NLP
-* Voice Command Automation
-* Wikipedia, News, Weather & YouTube Integration
+* Intelligent Voice Assistant
 
 ---
 
 ## 📚 Publications
 
-📄 **Prediction and Diagnosis of Cardiovascular Disease Using Cloud and Machine Learning**
+📄 Prediction and Diagnosis of Cardiovascular Disease Using Cloud and Machine Learning
 
-* Springer Publication
-* 7th International Conference on Intelligent Computing & Communication (2024)
+* Springer Publication (2024)
 
-📄 **Development and Evaluation of a Speech Recognised Voice Bot**
+📚 Development and Evaluation of a Speech Recognised Voice Bot
 
 * IEEE Sponsored ICSES 2023 Conference
 
 ---
 
-## 🏆 Certifications & Achievements
+## 📈 GitHub Statistics
 
-🏅 Microsoft Certified: Azure AI Fundamentals
-
-🏅 Salesforce CRM & SaaS Certification
-
-📜 Indian Patent Published
-
-* IoT-Enabled Smart Helmet with AI-Based Hazard Detection
-
-🥇 Winner – Capture The Flag 2024
-
-* SRMIST Computational Intelligence Department
-
-🇫🇷 French Language Certification (A1)
-
-* Alliance Française de Madras
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RishiAnandd&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiAnandd&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🏅 GitHub Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishiAnandd\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiAnandd\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: [rishianandv@gmail.com](mailto:rishianandv@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/rishiii-anand
-
-🐙 GitHub: github.com/RishiAnandd
-
-🌍 Portfolio: live-portfolio-rishianand.vercel.app
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RishiAnandd&theme=algolia&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
-⭐ Always excited to collaborate on AI, Data Science, Computer Vision, and Full Stack Development projects.
+## 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rishianandv@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rishiii-anand)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge\&logo=vercel\&logoColor=white)](https://live-portfolio-rishianand.vercel.app)
+
+---
+
+⭐ *Building intelligent solutions through Data Science, Artificial Intelligence, Computer Vision, and IoT.*
