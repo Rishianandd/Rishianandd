@@ -2,7 +2,7 @@
 
 # Rishi Anand
 
-**AI/ML Engineer · Data Scientist · MSc Data Science @ EPITA Paris (Sep 2026)**
+**AI/ML Engineer · MSc Data Science @ EPITA Paris (Sep 2026)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishiii-anand/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishianandv@gmail.com)
