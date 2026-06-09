@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Rishi Anand</h1>
 
-<h3 align="center">🚀 Data Science & AI Engineer | Incoming MSc Data Science & Analytics Student at EPITA Paris 🇫🇷</h3>
+<h3 align="center">🚀 Machine Learning & AI Engineer | Incoming MSc Data Science & Analytics Student at EPITA Paris 🇫🇷</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Computer+Vision+Researcher;Patent+Published+Inventor;IEEE+%26+Springer+Published+Author;Incoming+EPITA+Paris+Graduate+Student" />
