@@ -174,6 +174,13 @@ Deep learning image restoration using modified **ResNet-18 with skip connections
 
 ---
 
+## 📜 Patents & Intellectual Property
+
+| Patent No. | Title | Status | Domain |
+|------------|--------|--------|---------|
+| **202641029351** | **IoT-Enabled Smart Helmet with AI-Based Hazard Detection** | 🇮🇳 Published Indian Patent | Computer Vision · IoT · Road Safety |
+---
+
 ## 🏅 Achievements
 
 <div align="center">
