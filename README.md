@@ -123,60 +123,84 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+
+<td width="50%" valign="top">
 
 ### 🚦 IoT-Enabled Smart Helmet with AI-Based Hazard Detection
+
 `YOLOv8 · IoT · ESP32 · Python`
 
-IoT helmet with real-time hazard detection — speed breakers & traffic signboards. Achieved **mAP50: 92.53%**. Automated annotation pipelines for training efficiency.
+IoT-enabled smart helmet integrating computer vision and embedded systems for real-time hazard detection.
+
+* Detects speed breakers and traffic signboards using YOLOv8
+* Automated preprocessing and annotation pipelines
+* Real-time rider safety monitoring and alerts
+* Associated with an Indian Patent
 
 📜 **Indian Patent #202641029351**
 
-[![Repo]([https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white](https://github.com/Rishianandd/Smart-Helmet-and-Vehicle-Security-System))](YOUR_REPO_LINK)
+🔗 [Repository](https://github.com/Rishianandd)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ⚡ Smart Energy Distribution & Monitoring Grid
+
 `CatBoost · XGBoost · LightGBM · ESP32`
 
-IoT smart grid with real-time solar monitoring via ThingSpeak. Ensemble ML forecasting with **R² = 0.9971** + live anomaly detection with automated alerts.
+IoT-powered smart grid with real-time energy monitoring and forecasting.
 
-[![Repo]([https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white](https://github.com/Rishianandd/Smart_Energy_Distribution_and_Monitoring_Grid_System)](YOUR_REPO_LINK)
+* Live monitoring through ThingSpeak dashboard
+* Energy forecasting using ensemble ML models
+* Achieved **R² = 0.9971**
+* Automated anomaly detection and alerts
 
-</td>
-
-<td width="33%" valign="top">
-
-### 🌫️ Intelligent Image De-smoking & De-hazing
-`PyTorch · ResNet-18 · OpenCV`
-
-Deep learning image restoration using modified **ResNet-18 with skip connections**. Measurable **PSNR & SSIM** gains; GPU-accelerated training; benchmarked vs transformer architectures.
-
-[![Repo](https://github.com/Rishianandd/Intelligent_Image_De-smoking_and_De-hazing)](YOUR_REPO_LINK)
+🔗 [Repository](https://github.com/Rishianandd)
 
 </td>
+
 </tr>
 
 <tr>
-<td width="33%" valign="top">
 
-### 🚗 Vehicle Detection & Classification @DRDO 
+<td width="50%" valign="top">
+
+### 🚗 Vehicle Detection & Classification
+
 `SSD · R-CNN · PyTorch · OpenCV`
 
-Real-time vehicle detection and classification system using a hybrid **SSD + R-CNN** architecture for aerial and ground-level imagery.
+Real-time vehicle detection and classification system developed during DRDO internship.
 
-- Achieved **90%+ classification accuracy**
-- Reduced inference latency by **~40%**
-- Tested on **2,000+ annotated frames**
-- Robust across fog, rain, glare, and night conditions
+* Achieved **90%+ classification accuracy**
+* Reduced inference latency by **~40%**
+* Tested on **2,000+ annotated frames**
+* Robust across fog, rain, glare, and night conditions
 
-[![Repo](https://github.com/Rishianandd/Vehicle_Detection_and_classification_using_single_shot_detector_and_R-CNN-)](YOUR_REPO_LINK)
+🔗 [Repository](https://github.com/Rishianandd/Vehicle-Detection-System)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🌫️ Intelligent Image De-smoking & De-hazing
+
+`PyTorch · ResNet-18 · OpenCV`
+
+Deep learning image restoration model for haze and smoke removal.
+
+* Modified ResNet-18 with skip connections
+* Improved PSNR and SSIM scores
+* GPU-accelerated training pipeline
+* Benchmarked against transformer-based models
+
+🔗 [Repository](https://github.com/Rishianandd)
+
+</td>
+
 </tr>
 </table>
+
 
 ---
 
