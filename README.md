@@ -145,7 +145,7 @@ IoT-enabled smart helmet integrating computer vision and embedded systems for re
 
 <td width="50%" valign="top">
 
-### ⚡ Smart Energy Distribution & Monitoring Grid
+### ⚡ Smart Energy Distribution and Monitoring Grid System
 
 `CatBoost · XGBoost · LightGBM · ESP32`
 
