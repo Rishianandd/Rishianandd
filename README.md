@@ -139,7 +139,7 @@ IoT-enabled smart helmet integrating computer vision and embedded systems for re
 
 📜 **Indian Patent #202641029351**
 
-🔗 🔗 [Repository](https://github.com/Rishianandd/IoT-Enabled-Smart-Helmet-with-AI-Based-Hazard-Detection)
+🔗 [Repository](https://github.com/Rishianandd/IoT-Enabled-Smart-Helmet-with-AI-Based-Hazard-Detection)
 
 </td>
 
@@ -156,7 +156,7 @@ IoT-powered smart grid with real-time energy monitoring and forecasting.
 * Achieved **R² = 0.9971**
 * Automated anomaly detection and alerts
 
-🔗 🔗 [Repository](https://github.com/Rishianandd/Smart_Energy_Distribution_and_Monitoring_Grid_System)
+🔗 [Repository](https://github.com/Rishianandd/Smart_Energy_Distribution_and_Monitoring_Grid_System)
 
 </td>
 
@@ -177,7 +177,7 @@ Real-time vehicle detection and classification system developed during DRDO inte
 * Tested on **2,000+ annotated frames**
 * Robust across fog, rain, glare, and night conditions
 
-🔗 🔗 [Repository](https://github.com/Rishianandd/Vehicle_Detection_and_classification_using_single_shot_detector_and_R-CNN-)
+🔗 [Repository](https://github.com/Rishianandd/Vehicle_Detection_and_classification_using_single_shot_detector_and_R-CNN-)
 
 </td>
 
@@ -194,7 +194,7 @@ Deep learning image restoration model for haze and smoke removal.
 * GPU-accelerated training pipeline
 * Benchmarked against transformer-based models
 
-🔗 🔗 [Repository](https://github.com/Rishianandd/Intelligent_Image_De-smoking_and_De-hazing)
+🔗 [Repository](https://github.com/Rishianandd/Intelligent_Image_De-smoking_and_De-hazing)
 
 </td>
 
