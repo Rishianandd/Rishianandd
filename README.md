@@ -76,35 +76,52 @@ rishi = {
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
+
+### 📊 HighOnSwift Pvt. Ltd.
+**Data Scientist Intern** · *Jan 2026 – Present*
+
+> Building predictive analytics solutions and transforming data into actionable insights.
+
+- Developed and tested machine learning models for predictive analysis using **Python, Pandas, and Scikit-learn**
+- Performed **data cleaning, feature engineering, and exploratory data analysis (EDA)** to identify trends and improve model accuracy
+- Collaborated with development teams to optimize workflows, visualize insights, and support **data-driven decision making**
+- Built analytical pipelines and dashboards to improve business intelligence and reporting
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🛡️ DRDO-CVRDE — Ministry of Defence
 **Machine Learning Intern** · *Jun – Jul 2024*
 
 > Real-time military vehicle detection under extreme conditions.
 
-- **SSD + R-CNN hybrid pipeline** — 90%+ classification accuracy across fog, night, rain & glare
-- **~40% inference latency reduction** vs R-CNN baseline via domain-specific transfer learning
-- Robustness testing on **2,000+ annotated frames** with synthetic weather augmentation
-- Operated across aerial + ground-level imagery datasets
+- Built **SSD + R-CNN hybrid pipeline** achieving **90%+ classification accuracy**
+- Reduced inference latency by **~40%** compared to an R-CNN-only baseline
+- Improved robustness using synthetic weather augmentation techniques
+- Evaluated models on **2,000+ annotated frames** across fog, rain, glare, and night scenarios
+- Worked with aerial and ground-level imagery datasets
 
 </td>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 ### 🚆 ICF — Ministry of Railways, Govt. of India
 **Computer Engineer Intern** · *Jan – Feb 2024*
 
-> Enterprise systems engineering at scale for Indian Railways.
+> Enterprise systems engineering and technical support for railway operations.
 
-- Managed and maintained **SAP systems** supporting multi-department railway operations
-- Optimised **network performance, security & enterprise integration**
-- Contributed to programming, troubleshooting & console management
-- Documented technical procedures & provided end-user support
+- Assisted in maintaining and troubleshooting **SAP systems** across multiple departments
+- Supported network diagnostics, system maintenance, and security practices
+- Helped resolve user-reported technical issues and documented operational procedures
+- Worked with enterprise-level infrastructure supporting railway operations
 
 </td>
+
 </tr>
 </table>
-
 ---
 
 ## 🔬 Featured Projects
