@@ -152,7 +152,7 @@ IoT smart grid with real-time solar monitoring via ThingSpeak. Ensemble ML forec
 </td>
 <td width="33%" valign="top">
 
-### 🌫️ Image De-hazing
+### 🌫️ Intelligent Image De-smoking & De-hazing 
 `PyTorch · ResNet-18 · OpenCV`
 
 Deep learning image restoration using modified **ResNet-18 with skip connections**. Measurable **PSNR & SSIM** gains; GPU-accelerated training; benchmarked vs transformer architectures.
