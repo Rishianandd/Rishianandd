@@ -130,7 +130,7 @@ rishi = {
 <tr>
 <td width="33%" valign="top">
 
-### 🪖 Smart Helmet — Patent
+### 🚦 IoT-Enabled Smart Helmet with AI-Based Hazard Detection
 `YOLOv8 · IoT · ESP32 · Python`
 
 IoT helmet with real-time hazard detection — speed breakers & traffic signboards. Achieved **mAP50: 92.53%**. Automated annotation pipelines for training efficiency.
