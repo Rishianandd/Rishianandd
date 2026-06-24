@@ -17,20 +17,18 @@
 
 ---
 
-## 🚀 About Me
+## 💭 About Me
 
-> AI & Data Science enthusiast with experience in Machine Learning, Computer Vision, Predictive Analytics, and IoT-powered intelligent systems.
-
-🎓 B.Tech CSE (AI/ML) @ SRMIST — CGPA: 8.94/10
-
-🇫🇷 Incoming MSc Data Science & Analytics Student @ EPITA Paris
-
-💼 HighOnSwift • DRDO-CVRDE • Indian Railways
-
-📚 Springer Author • IEEE Author • Indian Patent Holder
-
-🔬 Interests: Computer Vision, Deep Learning, NLP, Predictive AI
-
+| Attribute | Details |
+|------------|---------|
+| 👤 Name | Rishi Anand |
+| 📍 Location | Chennai, India |
+| 🎓 Education | B.Tech CSE (AI/ML), SRMIST |
+| 🇫🇷 Next Step | MSc Data Science & Analytics, EPITA Paris |
+| 💼 Experience | HighOnSwift, DRDO-CVRDE, Indian Railways |
+| 📚 Publications | Springer 2024, IEEE ICSES 2023 |
+| 📜 Patent | Indian Patent #202641029351 |
+| 🔬 Interests | AI, ML, Computer Vision, Data Science |
 ---
 
 ## ⚙️ Tech Arsenal
