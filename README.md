@@ -191,7 +191,6 @@ Deep learning image restoration using modified **ResNet-18 with skip connections
 | ☁️ | **Salesforce Certified** — Cloud-Based CRM & SaaS |
 | 📜 | **Indian Patent #202641029351** — IoT-Enabled Smart Helmet with AI-Based Hazard Detection |
 | 🥇 | **CTF Winner 2024** — Debugging Event, SRMIST Computational Intelligence Dept. |
-| 🇫🇷 | **A1 French Certification** — Alliance Française de Madras, 2026 |
 
 </div>
 
