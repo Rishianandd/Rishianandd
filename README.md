@@ -142,7 +142,7 @@ IoT helmet with real-time hazard detection — speed breakers & traffic signboar
 </td>
 <td width="33%" valign="top">
 
-### ⚡ Smart Energy Grid
+### ⚡ Smart Energy Distribution & Monitoring Grid 
 `CatBoost · XGBoost · LightGBM · ESP32`
 
 IoT smart grid with real-time solar monitoring via ThingSpeak. Ensemble ML forecasting with **R² = 0.9971** + live anomaly detection with automated alerts.
