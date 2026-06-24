@@ -139,7 +139,7 @@ IoT-enabled smart helmet integrating computer vision and embedded systems for re
 
 📜 **Indian Patent #202641029351**
 
-🔗 [Repository](https://github.com/Rishianandd)
+🔗 [Repository]([https://github.com/Rishianandd](https://github.com/Rishianandd/IoT-Enabled-Smart-Helmet-with-AI-Based-Hazard-Detection))
 
 </td>
 
