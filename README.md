@@ -17,22 +17,19 @@
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-```python
-rishi = {
-    "name"        : "Rishi Anand",
-    "location"    : "Chennai 🇮🇳  →  Paris 🇫🇷  (Sep 2026)",
-    "education"   : {
-        "current" : "B.Tech CSE (AI/ML) @ SRMIST Chennai  —  CGPA: 8.94 / 10",
-        "next"    : "MSc Data Science & Analytics @ EPITA Paris  —  2026–2028"
-    },
-    "worked_with" : ["Ministry of Defence (DRDO-CVRDE)", "Indian Railways (ICF)"],
-    "research"    : ["Springer 2024", "IEEE ICSES 2023", "Indian Patent #202641029351"],
-    "focus_areas" : ["Computer Vision", "Predictive ML", "IoT-AI Systems", "NLP/ASR"],
-    "currently"   : "Preparing to move to Paris & building cool ML projects 🚀"
-}
-```
+> AI & Data Science enthusiast with experience in Machine Learning, Computer Vision, Predictive Analytics, and IoT-powered intelligent systems.
+
+🎓 B.Tech CSE (AI/ML) @ SRMIST — CGPA: 8.94/10
+
+🇫🇷 Incoming MSc Data Science & Analytics Student @ EPITA Paris
+
+💼 HighOnSwift • DRDO-CVRDE • Indian Railways
+
+📚 Springer Author • IEEE Author • Indian Patent Holder
+
+🔬 Interests: Computer Vision, Deep Learning, NLP, Predictive AI
 
 ---
 
