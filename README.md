@@ -132,27 +132,47 @@ IoT helmet with real-time hazard detection — speed breakers & traffic signboar
 
 📜 **Indian Patent #202641029351**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rishianandd)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
 
 </td>
+
 <td width="33%" valign="top">
 
-### ⚡ Smart Energy Distribution & Monitoring Grid 
+### ⚡ Smart Energy Distribution & Monitoring Grid
 `CatBoost · XGBoost · LightGBM · ESP32`
 
 IoT smart grid with real-time solar monitoring via ThingSpeak. Ensemble ML forecasting with **R² = 0.9971** + live anomaly detection with automated alerts.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rishianandd)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
 
 </td>
+
 <td width="33%" valign="top">
 
-### 🌫️ Intelligent Image De-smoking & De-hazing 
+### 🌫️ Intelligent Image De-smoking & De-hazing
 `PyTorch · ResNet-18 · OpenCV`
 
 Deep learning image restoration using modified **ResNet-18 with skip connections**. Measurable **PSNR & SSIM** gains; GPU-accelerated training; benchmarked vs transformer architectures.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rishianandd)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🚗 Vehicle Detection & Classification
+`SSD · R-CNN · PyTorch · OpenCV`
+
+Real-time vehicle detection and classification system using a hybrid **SSD + R-CNN** architecture for aerial and ground-level imagery.
+
+- Achieved **90%+ classification accuracy**
+- Reduced inference latency by **~40%**
+- Tested on **2,000+ annotated frames**
+- Robust across fog, rain, glare, and night conditions
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
 
 </td>
 </tr>
