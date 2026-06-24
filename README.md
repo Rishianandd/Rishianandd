@@ -20,7 +20,7 @@
 ## 💭 About Me
 
 | Attribute | Details |
-|------------|---------|
+|------------|----------------------------------------------------------|
 | 👤 Name | Rishi Anand |
 | 📍 Location | Chennai, India |
 | 🎓 Education | B.Tech CSE (AI/ML), SRMIST |
