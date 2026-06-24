@@ -132,7 +132,7 @@ IoT helmet with real-time hazard detection — speed breakers & traffic signboar
 
 📜 **Indian Patent #202641029351**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
+[![Repo]([https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white](https://github.com/Rishianandd/Smart-Helmet-and-Vehicle-Security-System))](YOUR_REPO_LINK)
 
 </td>
 
@@ -143,7 +143,7 @@ IoT helmet with real-time hazard detection — speed breakers & traffic signboar
 
 IoT smart grid with real-time solar monitoring via ThingSpeak. Ensemble ML forecasting with **R² = 0.9971** + live anomaly detection with automated alerts.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
+[![Repo]([https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white](https://github.com/Rishianandd/Smart_Energy_Distribution_and_Monitoring_Grid_System)](YOUR_REPO_LINK)
 
 </td>
 
@@ -154,7 +154,7 @@ IoT smart grid with real-time solar monitoring via ThingSpeak. Ensemble ML forec
 
 Deep learning image restoration using modified **ResNet-18 with skip connections**. Measurable **PSNR & SSIM** gains; GPU-accelerated training; benchmarked vs transformer architectures.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
+[![Repo](https://github.com/Rishianandd/Intelligent_Image_De-smoking_and_De-hazing)](YOUR_REPO_LINK)
 
 </td>
 </tr>
@@ -162,7 +162,7 @@ Deep learning image restoration using modified **ResNet-18 with skip connections
 <tr>
 <td width="33%" valign="top">
 
-### 🚗 Vehicle Detection & Classification
+### 🚗 Vehicle Detection & Classification @DRDO 
 `SSD · R-CNN · PyTorch · OpenCV`
 
 Real-time vehicle detection and classification system using a hybrid **SSD + R-CNN** architecture for aerial and ground-level imagery.
@@ -172,7 +172,7 @@ Real-time vehicle detection and classification system using a hybrid **SSD + R-C
 - Tested on **2,000+ annotated frames**
 - Robust across fog, rain, glare, and night conditions
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
+[![Repo](https://github.com/Rishianandd/Vehicle_Detection_and_classification_using_single_shot_detector_and_R-CNN-)](YOUR_REPO_LINK)
 
 </td>
 </tr>
