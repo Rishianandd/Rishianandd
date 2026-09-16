@@ -4,14 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Rishi%20Anand&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Data%20Scientist&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=DRDO+%7C+Indian+Railways+%7C+IEEE+%7C+Springer+%7C+Indian+Patent+%F0%9F%93%9C;YOLOv8+%C2%B7+PyTorch+%C2%B7+ResNet+%C2%B7+SSD%2BR-CNN+%C2%B7+CatBoost;B.Tech+AI%2FML+%40+SRMIST+%E2%80%94+CGPA+8.94%2F10;MSc+Data+Science+%40+EPITA+Paris+%F0%9F%87%AB%F0%9F%87%B7+%E2%80%94+Sep+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=DRDO+%7C+IEEE+%7C+Springer+%7C+Indian+Patent+%F0%9F%93%9C;YOLOv8+%C2%B7+PyTorch+%C2%B7+SSD%2BR-CNN+%C2%B7+CatBoost;RAG+%C2%B7+Knowledge+Graphs+%C2%B7+LLMs+%C2%B7+Vector+Search;B.Tech+AI%2FML+%40+SRMIST+%E2%80%94+CGPA+8.94%2F10;MSc+Data+Science+%40+EPITA+Paris+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishiii-anand)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishianandd)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishianandv@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Rishianandd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://live-portfolio-rishianand.vercel.app/)
 
 </div>
 
@@ -22,13 +22,13 @@
 | Attribute | Details |
 |------------|----------------------------------------------------------|
 | 👤 Name | Rishi Anand |
-| 📍 Location | Chennai, India |
-| 🎓 Education | B.Tech CSE (AI/ML), SRMIST |
-| 🇫🇷 Next Step | MSc Data Science & Analytics, EPITA Paris |
-| 💼 Experience | HighOnSwift, DRDO-CVRDE, Indian Railways |
+| 📍 Location | Paris, France |
+| 🎓 Education | B.Tech CSE (AI/ML), SRMIST — CGPA 8.94/10 |
+| 🇫🇷 Currently | MSc Data Science & Analytics, EPITA Paris |
+| 💼 Experience | HighOnSwift, DRDO-CVRDE |
 | 📚 Publications | Springer 2024, IEEE ICSES 2023 |
 | 📜 Patent | Indian Patent #202641029351 |
-| 🔬 Interests | AI, ML, Computer Vision, Data Science |
+| 🔬 Interests | AI, ML, Computer Vision, RAG & Knowledge Graphs, Data Science |
 ---
 
 ## ⚙️ Tech Arsenal
@@ -38,10 +38,17 @@
 **Deep Learning & Computer Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAE?style=for-the-badge&logo=yolo&logoColor=black)
+![SSD](https://img.shields.io/badge/SSD-6D28D9?style=for-the-badge&logoColor=white)
+
+**GenAI & RAG**
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logoColor=white)
 
 **ML & Data Science**
 
@@ -52,16 +59,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Languages, Cloud & Tools**
+**Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-6D28D9?style=for-the-badge&logoColor=white)
+![Albumentations](https://img.shields.io/badge/Albumentations-2ECC71?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -72,7 +76,7 @@
 <table width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 📊 HighOnSwift Pvt. Ltd.
 **Data Scientist Intern** · *Jan 2026 – Present*
@@ -82,11 +86,10 @@
 - Developed and tested machine learning models for predictive analysis using **Python, Pandas, and Scikit-learn**
 - Performed **data cleaning, feature engineering, and exploratory data analysis (EDA)** to identify trends and improve model accuracy
 - Collaborated with development teams to optimize workflows, visualize insights, and support **data-driven decision making**
-- Built analytical pipelines and dashboards to improve business intelligence and reporting
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🛡️ DRDO-CVRDE — Ministry of Defence
 **Machine Learning Intern** · *Jun – Jul 2024*
@@ -95,23 +98,7 @@
 
 - Built **SSD + R-CNN hybrid pipeline** achieving **90%+ classification accuracy**
 - Reduced inference latency by **~40%** compared to an R-CNN-only baseline
-- Improved robustness using synthetic weather augmentation techniques
-- Evaluated models on **2,000+ annotated frames** across fog, rain, glare, and night scenarios
-- Worked with aerial and ground-level imagery datasets
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🚆 ICF — Ministry of Railways, Govt. of India
-**Computer Engineer Intern** · *Jan – Feb 2024*
-
-> Enterprise systems engineering and technical support for railway operations.
-
-- Assisted in maintaining and troubleshooting **SAP systems** across multiple departments
-- Supported network diagnostics, system maintenance, and security practices
-- Helped resolve user-reported technical issues and documented operational procedures
-- Worked with enterprise-level infrastructure supporting railway operations
+- Improved robustness using synthetic weather augmentation; evaluated on **2,000+ annotated frames** across fog, rain, glare, and night scenarios
 
 </td>
 
@@ -124,26 +111,23 @@
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🚦 IoT-Enabled Smart Helmet with AI-Based Hazard Detection
+### 🧠 Knowledge Graph RAG for Enterprise Data
 
-`YOLOv8 · IoT · ESP32 · Python`
+`Python · PostgreSQL · pgvector · Neo4j · LLM`
 
-IoT-enabled smart helmet integrating computer vision and embedded systems for real-time hazard detection.
+RAG pipeline for enterprise document Q&A, combining vector search with a knowledge graph for hybrid retrieval.
 
-* Detects speed breakers and traffic signboards using YOLOv8
-* Automated preprocessing and annotation pipelines
-* Real-time rider safety monitoring and alerts
-* Associated with an Indian Patent
+* Ingests PDF/DOCX/TXT files → chunking → embeddings → vector storage
+* Entity extraction to build a Neo4j knowledge graph layer
+* Hybrid vector + graph retrieval for more accurate, context-aware LLM responses
 
-📜 **Indian Patent #202641029351**
-
-🔗 [Repository](https://github.com/Rishianandd/IoT-Enabled-Smart-Helmet-with-AI-Based-Hazard-Detection)
+🔗 [Repository](https://github.com/Rishianandd/Knowledge-Graph-RAG-for-Enterprise-Data)
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ⚡ Smart Energy Distribution & Monitoring Grid System
 
@@ -152,47 +136,72 @@ IoT-enabled smart helmet integrating computer vision and embedded systems for re
 IoT-powered smart grid with real-time energy monitoring and forecasting.
 
 * Live monitoring through ThingSpeak dashboard
-* Energy forecasting using ensemble ML models
-* Achieved **R² = 0.9971**
+* Energy forecasting using ensemble ML models — **R² = 0.9971**
 * Automated anomaly detection and alerts
 
 🔗 [Repository](https://github.com/Rishianandd/Smart_Energy_Distribution_and_Monitoring_Grid_System)
 
 </td>
 
-</tr>
+<td width="33%" valign="top">
 
+### 📉 Customer Churn Prediction Pipeline
+
+`Python · Scikit-learn · Logistic Regression`
+
+End-to-end churn prediction pipeline for identifying at-risk customers.
+
+* Data cleaning, categorical encoding, and feature scaling
+* Logistic Regression classifier
+* Evaluated using precision, recall, and F1-score
+
+🔗 [Repository](https://github.com/Rishianandd/Customer-Churn-Prediction-Pipeline)
+
+</td>
+
+</tr>
+</table>
+
+<details>
+<summary><b>🗂️ Other Projects</b> (earlier work — not on current resume)</summary>
+<br/>
+
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### 🚦 IoT-Enabled Smart Helmet with AI-Based Hazard Detection
+
+`YOLOv8 · IoT · ESP32 · Python`
+
+Detects speed breakers and traffic signboards in real time via YOLOv8.
+
+📜 **Indian Patent #202641029351**
+
+🔗 [Repository](https://github.com/Rishianandd/IoT-Enabled-Smart-Helmet-with-AI-Based-Hazard-Detection)
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🚗 Vehicle Detection & Classification
 
 `SSD · R-CNN · PyTorch · OpenCV`
 
-Real-time vehicle detection and classification system developed during DRDO internship.
-
-* Achieved **90%+ classification accuracy**
-* Reduced inference latency by **~40%**
-* Tested on **2,000+ annotated frames**
-* Robust across fog, rain, glare, and night conditions
+Standalone SSD/R-CNN vehicle detection project — the same technical foundation as the DRDO internship work above.
 
 🔗 [Repository](https://github.com/Rishianandd/Vehicle_Detection_and_classification_using_single_shot_detector_and_R-CNN-)
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🌫️ Intelligent Image De-smoking & De-hazing
 
 `PyTorch · ResNet-18 · OpenCV`
 
-Deep learning image restoration model for haze and smoke removal.
-
-* Modified ResNet-18 with skip connections
-* Improved PSNR and SSIM scores
-* GPU-accelerated training pipeline
-* Benchmarked against transformer-based models
+Modified ResNet-18 image restoration model with skip connections, benchmarked against transformer-based approaches.
 
 🔗 [Repository](https://github.com/Rishianandd/Intelligent_Image_De-smoking_and_De-hazing)
 
@@ -201,6 +210,7 @@ Deep learning image restoration model for haze and smoke removal.
 </tr>
 </table>
 
+</details>
 
 ---
 
@@ -229,7 +239,7 @@ Deep learning image restoration model for haze and smoke removal.
 | 🔵 | **Microsoft Certified** — Azure AI Fundamentals |
 | ☁️ | **Salesforce Certified** — Cloud-Based CRM & SaaS |
 | 📜 | **Indian Patent #202641029351** — IoT-Enabled Smart Helmet with AI-Based Hazard Detection |
-| 🥇 | **CTF Winner 2024** — Debugging Event, SRMIST Computational Intelligence Dept. |
+| 🇫🇷 | **A2 French Certification** — Alliance Française de Madras |
 
 </div>
 
@@ -254,10 +264,10 @@ Deep learning image restoration model for haze and smoke removal.
 ## 🌍 What's Next
 
 ```
-📍 Now      →   Chennai, India
-✈️  Moving  →   Paris, France  (September 2026)
-🎓 Starting →   MSc Data Science & Analytics @ EPITA Paris  (2026 – 2028)
-🤝 Open to  →   Research collabs · AI/ML projects · Open-source contributions
+📍 Based in    →   Paris, France
+🎓 Studying    →   MSc Data Science & Analytics @ EPITA Paris  (2026 – 2028)
+🎯 Looking for →   Data Science / ML stage de fin d'études → CDI, Paris
+🤝 Open to     →   Research collabs · AI/ML projects · Open-source contributions
 ```
 
 ---
